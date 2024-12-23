@@ -1,4 +1,4 @@
-VEA-SWAG-SWAG-SWAG:enabled
+VEA-SWAG-SWAG-SWAG:disabled
 VEA-XAEW-DG2A-SDWA:enabled
 VEA-XN1W-ND3A-XJM3:enabled
 VEA-MND2-NASX-NSAS:disabled
