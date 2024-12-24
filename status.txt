@@ -1,3 +1,4 @@
 status=online
 version=1.0.0
 download=https://github.com/robi1beleaua/standoff/raw/refs/heads/main/test%20update.exe
+title= VEA Multi Tool #soon update.
