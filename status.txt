@@ -1,4 +1,4 @@
 status=online
 version=1.0.0
 download=https://github.com/robi1beleaua/standoff/raw/refs/heads/main/test%20update.exe
-title= Happy New Year! love from vea.
+title= asta inseamna sa fi susssy
