@@ -5,3 +5,7 @@ from = VEA
 date = 24.12.2024
 text = Hello everyone, new update available! This is an automated text.
 from = System
+
+date = 25.12.2024
+text = We are aware of an issue with the program. Occasionally, there is lag, and some characters may not be displayed correctly. We are working on resolving this issue as soon as possible. Stay tuned for updates.
+from = VEA
